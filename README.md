@@ -1,4 +1,4 @@
-# WordPress Pay Gateway: ABN AMRO - iDEAL Hosted
+# [DEPRECATED] WordPress Pay Gateway: ABN AMRO - iDEAL Hosted
 
 **ABN AMRO - iDEAL Hosted driver for the WordPress payment processing library.**
 
